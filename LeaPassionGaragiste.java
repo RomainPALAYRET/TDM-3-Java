@@ -1,4 +1,4 @@
-class Main {
+public class LeaPassionGaragiste {
   public static void main(String[] args) {
     double budget = 10000;
     Limousine l1 = new Limousine(12,1000,"blanche", 8);
