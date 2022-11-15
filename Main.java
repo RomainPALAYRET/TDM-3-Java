@@ -1,8 +1,7 @@
 class Main {
   public static void main(String[] args) {
-    PointA a = new PointA();
-    a.initialise(2,3);
-    a.afficher();
+    PointNom a = new PointNom(1415,9265, "Benoit");
+    a.afficheCoords();
     
   }
 }
